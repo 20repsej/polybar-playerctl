@@ -1,1 +1,1 @@
-# polybar-systemctl
+# polybar-playerctl
