@@ -1,6 +1,3 @@
-# polybar-playerctl
-
-
 # Script: polybar-playerctl
 
 Polybar module that uses playerctl to show and play/pause the player. Default player is spotify but you can change PLAYER in both script files to another player that supports playerctl.
